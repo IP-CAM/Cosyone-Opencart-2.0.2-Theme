@@ -1,6 +1,6 @@
 <?php
 // Modules
-$_['heading_title_latest'] 	= 	'Останні повідомлення в блозі';
+$_['heading_title_latest'] 	  = 	'Останні повідомлення в блозі';
 $_['heading_title_category'] = 	'Категорії';
 $_['text_show_all'] = 			'Переглянути всі';
 
