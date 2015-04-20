@@ -1,36 +1,36 @@
 <?php
 // Button
-$_['button_ask']     		= 'Ask a question about this product';
+$_['button_ask']     		= 'Задайте питання по цьому товару';
 
 // Tab
-$_['tab_questions']     	= 'Product Questions';
+$_['tab_questions']     	= 'Питання по товару';
 
 // Text
-$_['text_no_questions']     = 'There are no questions about this product.';
-$_['text_question_from']    = 'Question from';
-$_['text_no_answer']        = 'This question has not yet been answered';
-$_['text_our_answer']       = 'Our answer:';
+$_['text_no_questions']     = 'Відсутні питання по даному товару.';
+$_['text_question_from']    = 'Запитання від';
+$_['text_no_answer']        = 'На це питання ще не відповіли';
+$_['text_our_answer']       = 'Наша відповідь:';
 
 // Button
-$_['button_send']       	= 'Send';
+$_['button_send']       	= 'Надіслати';
 
 // Form
-$_['heading_ask']     		= 'Ask a question about this product';
-$_['entry_email']     		= 'Your E-mail&nbsp;&nbsp;<i style="color:#999999">(Will not be published)</i>';
-$_['entry_question']     	= 'Your Question';
-$_['entry_private']     	= 'I wish to not have this question published';
-$_['entry_captcha']     	= 'Enter the code in the box below';
+$_['heading_ask']     		= 'Задайте питання по цьому товару';
+$_['entry_email']     		= 'Ваш E-mail&nbsp;&nbsp;<i style="color:#999999">(не буде опубліковано)</i>';
+$_['entry_question']     	= 'Ваше питання';
+$_['entry_private']     	= 'Я хочу щоб це питання не публікувалось';
+$_['entry_captcha']     	= 'Введіть код в поле нижче';
 
 // Error & Success alerts
-$_['error_name']            = 'Your name must be between 2 and 30 characters';
-$_['error_email']           = 'Your email must be between 2 and 60 characters';
-$_['error_text']            = 'Your question must be between 10 and 1000 characters';
-$_['error_captcha']         = 'Verification code does not match the image';
-$_['text_success']          = 'Thank you! We will reply as soon as possible';
+$_['error_name']            = 'Ваше ім\'я повинне містити не менше 2 та не більше 30 символів';
+$_['error_email']           = 'Ваш email повинен містити не менше 2 та не більше 60 символів';
+$_['error_text']            = 'Ваше питання повинне містити не менше 10 та не більше 1000 символів';
+$_['error_captcha']         = 'Код перевірки не співпадає із зображенням';
+$_['text_success']          = 'Дякуємо Вам! Ми відповімо якнайшвидше';
 
 // Email notification to store owner
-$_['text_subject']			= '%s - Product Question';
-$_['text_waiting']			= 'You have a new product question waiting for reply.';
-$_['text_product']			= 'Product: %s';
-$_['text_author']			= 'Author: %s';
-$_['text_question']			= 'Question:';
+$_['text_subject']			= '%s - Питання по товару';
+$_['text_waiting']			= 'У Вас нове питання по товару, яке чекає на відповідь.';
+$_['text_product']			= 'Товар: %s';
+$_['text_author']			= 'Автор: %s';
+$_['text_question']			= 'Питання:';
