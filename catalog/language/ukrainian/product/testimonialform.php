@@ -1,37 +1,34 @@
 <?php
 // Heading
-$_['heading_title']  	= 'Write testimonial';
-$_['sent_testimonial'] 	= 'Thank you!';
+$_['heading_title']  	  = 'Написати відгук';
+$_['sent_testimonial'] 	= 'Дякуємо Вам!';
 
 // Text 
-$_['text_message']   	= '<p>Thank you! Your testimonial was sent</p>';
-$_['text_note']      	= '<span style="color: #FF0000;">Note:</span> HTML is not translated!';
-$_['text_average']      = 'Average Rating:';
-$_['text_stars']        = '%s out of 5 Stars!';
-$_['text_conditions'] 	= 'Testimonial is your experience or comments on the website.';
-$_['text_add'] 			= 'There are new testimonials.';
-$_['button_send'] 		= 'Send';
+$_['text_message']    	= '<p>Дякуємо Вам! Ваш відгук надіслано</p>';
+$_['text_note']      	  = '<span style="color: #FF0000;">Примітка:</span> HTML розмітка не підтримується! Використайте звичайний текст.';
+$_['text_average']      = 'Середній рейтинг:';
+$_['text_stars']        = '%s з 5 зірок!';
+$_['text_conditions'] 	= 'Відгук - це Ваш досвід або коментар на порталі.';
+$_['text_add'] 			    = 'Є нові відгуки.';
+$_['button_send'] 		  = 'Надіслати';
 
 // Entry Fields
-$_['entry_name']     	= 'Name:';
-$_['entry_city']     	= 'City:';
-$_['entry_email']    	= 'Email address (will not be published):';
-$_['entry_title']	 	= 'Subject:';
-$_['entry_enquiry']  	= 'Testimonial:';
-$_['entry_captcha']  	= 'Enter the code in the box below:';
-$_['entry_rating']      = 'Rating:';
-$_['entry_good']        = 'Good';
-$_['entry_bad']         = 'Bad';
+$_['entry_name']     	= 'Ім\'я:';
+$_['entry_city']     	= 'Місто:';
+$_['entry_email']    	= 'Email адреса (не буде опубліковано):';
+$_['entry_title']	 	  = 'Тема:';
+$_['entry_enquiry']  	= 'Відгук:';
+$_['entry_captcha']  	= 'Введіть код в поле нижче:';
+$_['entry_rating']    = 'Рейтинг:';
+$_['entry_good']      = 'Добре';
+$_['entry_bad']       = 'Погано';
 
 // Email
-$_['email_subject']  	= 'Testimonial %s';
+$_['email_subject']  	= 'Відгук %s';
 
 // Errors
-$_['error_name']     	= 'Name must be greater than 3 and less than 32 characters!';
-$_['error_title']     	= 'Subject must be between 3 to 64 characters!';
-$_['error_email']    	= 'E-Mail Address does not appear to be valid!';
-$_['error_enquiry']  	= 'Message must be greater than 1 and less than 1000 characters!';
-$_['error_captcha']  	= 'Verification code does not match the image!';
-
-
-?>
+$_['error_name']     	= 'Ім\'я повинно бути більше ніж 3 і менше ніж 32 символів!';
+$_['error_title']     = 'Тема повинна бути від 3 до 64 символів!';
+$_['error_email']    	= 'E-Mail адреса вказана не коректно!';
+$_['error_enquiry']  	= 'Повідомлення повинно бути більше ніж 1 і менш ніж 1000 символів!';
+$_['error_captcha']  	= 'Код перевірки не співпадає із зображенням!';
