@@ -1,19 +1,19 @@
 <?php
 // Text
-$_['text_cart']	= 'Shopping cart';
-$_['text_image']	= 'Image';
-$_['text_name']		= 'Product';
-$_['text_quantity']	= 'Quantity';
-$_['text_price']	= 'Price';
-$_['text_total']	= 'Total';
+$_['text_cart']	    = 'Кошик';
+$_['text_image']	  = 'Зображення';
+$_['text_name']		  = 'Товар';
+$_['text_quantity']	= 'Кількість';
+$_['text_price']	  = 'Ціна';
+$_['text_total']	  = 'Всього';
 
-$_['text_recurring_item']            = 'Recurring Item';
-$_['text_payment_recurring']         = 'Payment Profile';
-$_['text_trial_description']         = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description']       = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']            = '%s every %d %s(s) until canceled';
-$_['text_day']                       = 'day';
-$_['text_week']                      = 'week';
-$_['text_semi_month']                = 'half-month';
-$_['text_month']                     = 'month';
-$_['text_year']                      = 'year';
+$_['text_recurring_item']       = 'Повторні пункти';
+$_['text_payment_recurring']    = 'Профіль оплати';
+$_['text_trial_description']    = '%s кожен %d %s(s) для %d сплати(s) then';
+$_['text_payment_description']  = '%s кожен %d %s(s) для %d сплати(s)';
+$_['text_payment_cancel']       = '%s кожен %d %s(s) поки не буде скасовано';
+$_['text_day']                  = 'день';
+$_['text_week']                 = 'тиждень';
+$_['text_semi_month']           = 'два з половиною місяці';
+$_['text_month']                = 'місяць';
+$_['text_year']                 = 'рік';
