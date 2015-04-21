@@ -1,25 +1,25 @@
 <?php
 // Heading 
-$_['heading_title']                  = 'Checkout';
+$_['heading_title']                  = 'Оформлення';
 
 // Text
-$_['text_cart']                      = 'Shopping Cart';
-$_['text_checkout_option']           = 'Login';
-$_['text_already_have_account']      = 'Already have an account? Login';
-$_['text_checkout_account']          = 'Account &amp; Billing Details';
-$_['text_checkout_payment_address']  = 'Billing Details';
-$_['text_checkout_shipping_address'] = 'Delivery Details';
-$_['text_checkout_shipping_method']  = 'Delivery Method';
-$_['text_checkout_payment_method']   = 'Payment Method';
-$_['text_checkout_confirm']          = 'Confirm Order';
-$_['text_new_customer']              = 'New Customer';
-$_['text_returning_customer']        = 'Returning Customer';
-$_['text_checkout']                  = 'Checkout Options:';
-$_['text_i_am_returning_customer']   = 'I am a returning customer';
-$_['text_register']                  = 'Register Account';
-$_['text_guest']                     = 'Guest Checkout';
-$_['text_register_account']          = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_forgotten']                 = 'Forgotten Password';
+$_['text_cart']                      = 'Кошик';
+$_['text_checkout_option']           = 'Увійти';
+$_['text_already_have_account']      = 'Вже є аккаунт? Увійти';
+$_['text_checkout_account']          = 'Рахунок та платіжні реквізити';
+$_['text_checkout_payment_address']  = 'Платіжні реквізити';
+$_['text_checkout_shipping_address'] = 'Деталі доставки';
+$_['text_checkout_shipping_method']  = 'Спосіб доставки';
+$_['text_checkout_payment_method']   = 'Спосіб оплати';
+$_['text_checkout_confirm']          = 'Підтвердити замовлення';
+$_['text_new_customer']              = 'Новий покупець';
+$_['text_returning_customer']        = 'Постійний покупець';
+$_['text_checkout']                  = 'Опції оформлення:';
+$_['text_i_am_returning_customer']   = 'Я постійний покупець';
+$_['text_register']                  = 'Реєстрація аккаунту';
+$_['text_guest']                     = 'Гостьове оформлення замовлення';
+$_['text_register_account']          = 'Створивши обліковий запис, Ви зможете здійснювати покупки набагато швидше і бути завжди в курсі того, який зараз має статус замовлення, і відслідковувати замовлень, які раніше зробили.';
+$_['text_forgotten']                 = 'Забули пароль?';
 $_['text_your_details']              = 'Your Personal Details';
 $_['text_your_address']              = 'Your Address';
 $_['text_your_password']             = 'Your Password';
